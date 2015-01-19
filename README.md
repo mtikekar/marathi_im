@@ -17,9 +17,9 @@ Expected output | Key presses
 अनिवार्य                    | anivaarya
 टॉम                         | TOma
 प्लॅन                        | plEna
+ज्ञान                         | dnyaana jJaana
 अङ्ग                         | aGga
 पञ्च                         | paJca
-ज्ञान                         | dnyaana jJaana
 पाण्डव                      | paaNDava
 कृष्ण                        | kRSNa
 मातॄणाम्                    | maatRRNaam
@@ -27,4 +27,4 @@ Expected output | Key presses
 शिव                        | shiva
 ॐ                          | AUM OM
 ड़र                          | D.ara
-चाँद                        | caCda
+चाँद                        | caaCda
