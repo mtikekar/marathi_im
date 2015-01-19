@@ -7,24 +7,28 @@ Installation -
 
 Usage - Choose "Marathi - simple (m17n)" as the ibus input method. 
 
-Some examples -
+Read the `consonant`, `independent` and `dependent` sections in `mr-simple.mim` to see what is available. Some examples are given below as a quick reference.
 
 Expected output | Key presses
 ----------------|-------------
+बाळ                        | baaLa, bAla
+पक्षी                        | paxii, paxI
 तऱ्हा                        | tar.haa
-अर्ह                         | arha
 वाऱ्यावर                     | vaar.yaavara
 अनिवार्य                    | anivaarya
 टॉम                         | TOma
 प्लॅन                        | plEna
-ज्ञान                         | dnyaana jJaana
+ज्ञान                         | dnyaana, jJaana
+अर्हति                       | arhati
 अङ्ग                         | aGga
 पञ्च                         | paJca
-पाण्डव                      | paaNDava
-कृष्ण                        | kRSNa
+पाण्डवं                      | paaNDavaM
+कृष्णः                        | kRSNaH
 मातॄणाम्                    | maatRRNaam
 कॢप्ति                        | kLRpti
 शिव                        | shiva
-ॐ                          | AUM OM
+॥ श्री ॥                    | &#124;&#124; shrii &#124;&#124;
+ॐ                          | AUM, OM
+सोऽहम्                     | so$ham
 ड़र                          | D.ara
 चाँद                        | caaCda
