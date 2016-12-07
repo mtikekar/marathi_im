@@ -5,7 +5,7 @@ A simpler [ibus-m17n](https://launchpad.net/ubuntu/+source/ibus-m17n) input meth
 Installation -
   ```bash
   sudo apt-get install ibus-m17n
-  git clone https://github.com/mehultikekar/marathi_im
+  git clone https://github.com/mtikekar/marathi_im
   sudo cp marathi_im/mr-simple.mim /usr/share/m17n/
   ```
 
@@ -15,24 +15,24 @@ Read the `consonant`, `independent` and `dependent` sections in `mr-simple.mim` 
 
 Expected output | Key presses
 ----------------|-------------
-बाळ                        | baaLa, bAla
-पक्षी                        | paxii, paxI
-तऱ्हा                        | tar.haa
-वाऱ्यावर                     | vaar.yaavara
-अनिवार्य                    | anivaarya
-टॉम                         | TOma
-प्लॅन                        | plEna
-ज्ञान                         | dnyaana, jJaana
-अर्हति                       | arhati
-अङ्ग                         | aGga
-पञ्च                         | paJca
-पाण्डवं                      | paaNDavaM
-कृष्णः                        | kRSNaH
-मातॄणाम्                    | maatRRNaam
-कॢप्ति                        | kLRpti
-शिव                        | shiva
-॥ श्री ॥                    | &#124;&#124; shrii &#124;&#124;
-ॐ                          | AUM, OM
-सोऽहम्                     | so$ham
-ड़र                          | D.ara
-चाँद                        | caaCda
+बाळ                        | `baaLa, bAla`
+पक्षी                        | `paxii, paxI`
+तऱ्हा                        | `tar.haa`
+वाऱ्यावर                     | `vaar.yaavara`
+अनिवार्य                    | `anivaarya`
+टॉम                         | `TOma`
+प्लॅन                        | `plEna`
+ज्ञान                         | `dnyaana, jJaana`
+अर्हति                       | `arhati`
+अङ्ग                         | `aGga`
+पञ्च                         | `paJca`
+पाण्डवं                      | `paaNDavaM`
+कृष्णः                        | `kRSNaH`
+मातॄणाम्                    | `maatRRNaam`
+कॢप्ति                        | `kLRpti`
+शिव                        | `shiva`
+॥ श्री ॥                    | `|| shrii ||`
+ॐ                          | `AUM, OM`
+सोऽहम्                     | `so$ham`
+ड़र                          | `D.ara`
+चाँद                        | `caaCda`
