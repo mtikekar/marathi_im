@@ -31,7 +31,7 @@ Expected output | Key presses
 मातॄणाम्                    | `maatRRNaam`
 कॢप्ति                        | `kLRpti`
 शिव                        | `shiva`
-॥ श्री ॥                    | `|| shrii ||`
+॥ श्री ॥                    | `\|\| shrii \|\|`
 ॐ                          | `AUM, OM`
 सोऽहम्                     | `so$ham`
 ड़र                          | `D.ara`
