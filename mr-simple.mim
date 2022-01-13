@@ -81,7 +81,6 @@ Author: Rahul Bhalerao <rbhalera@redhat.com>
   ("s" "स्")
   ("h" "ह्")
   ("jJ" "ज्ञ्")
-  ("dny" "ज्ञ्")
   ("x" "क्ष्")
   ("." (move @-) "़" (move @+))
 )

@@ -22,7 +22,7 @@ Expected output | Key presses
 अनिवार्य                    | `anivaarya`
 टॉम                         | `TOma`
 प्लॅन                        | `plEna`
-ज्ञान                         | `dnyaana, jJaana`
+ज्ञान                         | `jJaana`
 अर्हति                       | `arhati`
 अङ्ग                         | `aGga`
 पञ्च                         | `paJca`
